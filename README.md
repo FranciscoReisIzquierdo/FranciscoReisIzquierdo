@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/franciscreis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="franciscreis" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/francisco-izquierdo-a45856242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/francisco-izquierdo-a45856242" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/https://www.linkedin.com/in/francisco-izquierdo-a45856242](https://www.linkedin.com/in/francisco-izquierdo-a45856242)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/francisco-izquierdo-a45856242" height="30" width="40" /></a>
 <a href="https://kaggle.com/grupomei30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="grupomei30" height="30" width="40" /></a>
 </p>
 
